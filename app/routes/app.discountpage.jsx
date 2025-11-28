@@ -90,7 +90,7 @@ const DiscountPage = () => {
     <Page title="Create Discount">
       <>
         <Form >
-          <h1>Apply Discount</h1>
+          <h1>Apply Discounts</h1>
 
           <FormLayout>
             <Select
